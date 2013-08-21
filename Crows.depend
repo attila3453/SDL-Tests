@@ -16,3 +16,14 @@
 	<math.h>
 	"Vector.h"
 
+1377085576 source:c:\users\attila\documents\github\sdl-tests\main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_opengl.h>
+	<stdio.h>
+
+1375264053 source:c:\users\attila\documents\github\sdl-tests\vector.cpp
+	<math.h>
+	"Vector.h"
+
+1375264031 c:\users\attila\documents\github\sdl-tests\vector.h
+
