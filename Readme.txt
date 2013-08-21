@@ -1,0 +1,1 @@
+Using SDL and its extensions: SDL_ttf, SDL_mixer etc.

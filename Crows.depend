@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1377082494 source:c:\users\attila\desktop\crows\main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_main.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_opengl.h>
+	<stdio.h>
+	<sstream>
+	<cstring>
+
+1375264031 c:\users\attila\desktop\crows\vector.h
+
+1375264053 source:c:\users\attila\desktop\crows\vector.cpp
+	<math.h>
+	"Vector.h"
+
