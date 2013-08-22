@@ -2,7 +2,7 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="Crows" />
+		<Option title="SDL Tests" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
@@ -13,13 +13,13 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
-					<Add option="-DSDL_STATIC" />
+					<Add option="-DGLEW_STATIC" />
 				</Compiler>
 				<Linker>
-					<Add option="-lmingw32 -lSDLmain -lSDL" />
-					<Add option="-lSDL_image" />
-					<Add option="-lSDL_ttf" />
-					<Add option="-lSDL_mixer" />
+					<Add option="-lglew32s" />
+					<Add option="-lmingw32" />
+					<Add option="-lSDLmain" />
+					<Add option="-lSDL" />
 					<Add option="-lopengl32" />
 				</Linker>
 			</Target>
@@ -43,6 +43,8 @@
 		<Unit filename="Vector.cpp" />
 		<Unit filename="Vector.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="shader.fragment" />
+		<Unit filename="shader.vertex" />
 		<Extensions>
 			<code_completion />
 			<envvars />

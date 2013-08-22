@@ -16,10 +16,14 @@
 	<math.h>
 	"Vector.h"
 
-1377085576 source:c:\users\attila\documents\github\sdl-tests\main.cpp
+1377153881 source:c:\users\attila\documents\github\sdl-tests\main.cpp
+	<GL/glew.h>
+	<GL/gl.h>
 	<SDL/SDL.h>
-	<SDL/SDL_opengl.h>
 	<stdio.h>
+	<string>
+	<fstream>
+	<glm/glm.hpp>
 
 1375264053 source:c:\users\attila\documents\github\sdl-tests\vector.cpp
 	<math.h>
